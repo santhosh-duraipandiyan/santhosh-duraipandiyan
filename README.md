@@ -28,7 +28,7 @@ Currently, I’m passionate about advancing in **offensive security** and automa
 ### 📊 **My Skills in Numbers**
 
 ```plaintext
-Security Tools:       ████████    90%
+Security Tools:    ████████    90%
 Web Development:   ███████     80%
 Automation:        ████████    90%
 ```
