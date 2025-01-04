@@ -1,1 +1,41 @@
-I am a cybersecurity researcher with a programming background, From developing web applications and breaking them I am very passionate about technology and computer science. With the experience and knowledge I gained from developing applications during my undergraduate days, I pursued cybersecurity in postgraduate for the challenge and interest. As a self-learner, I taught myself security concepts and I have also applied my skills in real time for developing web applications, security automation, vulnerability analysis, building cybersecurity tools like scanners, and other uses like building microservices (video transcoder). being both a programmer and a cybersecurity researcher gives me the upper hand in understanding the vulnerabilities better and more in-depth. which in turn allows me to find outstanding solutions.
+👋 Hi, I'm Santhosh Duraipandiyan.
+Security Engineer | Web Developer.
+📍 Location: Madurai, Tamil Nadu, India.
+📧 Email: santhosh.duraipandiyan@gmail.com.
+
+🛡️ About Me
+I'm a Security Engineer with 2.9 years of hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), and SOC Operations. My core skills lie in identifying vulnerabilities and improving the security posture of web applications. I also have a background in Web Development, working with Python and JavaScript.
+Currently, I’m passionate about advancing in offensive security and automating security processes to increase efficiency.
+
+🛠️ Skills & Tools
+Programming Languages
+💻 Python, JavaScript
+
+Security Tools
+🔧 NMap | Metasploit | Wireshark | Burp Suite | Nessus | Postman
+
+Frameworks & Tech
+🖥️ Django | Express.js | MongoDB
+
+💻 Projects
+Dangling Checker (Python)
+☁️ A Python tool that scans cloud platforms (AWS, GCP, DigitalOcean, Cloudflare) for dangling domains and provides real-time notifications via Slack.
+
+App Scanner (Web App)
+📱 A web-based tool that automatically analyzes Android/iOS apps for security vulnerabilities like insecure data storage and outdated libraries.
+
+Security Header Generator (Web App)
+🛡️ A Django-based app that generates custom security headers for web applications. It offers developers an easy interface to apply security best practices.
+
+📊 My Skills in Numbers
+
+Security Tools:       ████████    90%
+Web Development:   ███████     80%
+Automation:        ████████    90%
+
+🌍 Connect With Me
+Medium: @santhosh-duraipandiyan
+LinkedIn: Santhosh Duraipandiyan
+
+🚀 Let's Build Something Together!
+Feel free to explore my repositories, contribute to open-source projects, or collaborate on new ones. I’m always looking for new opportunities to grow and collaborate in the cybersecurity field. 🔐
