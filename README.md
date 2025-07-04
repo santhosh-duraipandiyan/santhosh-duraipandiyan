@@ -7,7 +7,7 @@
 
 ### 🛡️ **About Me**
 
-I'm a **Security Engineer** with **2.9 years** of hands-on experience in **Vulnerability Assessment**, **Penetration Testing (VAPT)**, and **SOC Operations**. My core skills lie in identifying vulnerabilities and improving the security posture of web applications. I also have a background in **Web Development**, working with **Python** and **JavaScript**.  
+I'm a **Security Engineer** with **2.9 years** of hands-on experience in **Vulnerability Assessment**, **Penetration Testing (VAPT)**, **Security automation** and **SOC Operations**. My core skills lie in identifying vulnerabilities and improving the security posture of web applications. I also have a background in **Web Development**, working with **Python** and **JavaScript**.  
 Currently, I’m passionate about advancing in **offensive security** and automating security processes to increase efficiency.
 
 ---
