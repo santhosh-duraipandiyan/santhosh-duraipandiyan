@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Santhosh Duraipandiyan**  
-**Security Engineer** | **Web Developer**  
+**Security Engineer** | **Software Developer**  
 📍 **Location**: Madurai, Tamil Nadu, India  
 📧 **Email**: [santhosh.duraipandiyan@gmail.com](mailto:santhosh.duraipandiyan@gmail.com)
 
